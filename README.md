@@ -1,4 +1,4 @@
-## Simulated Linear Regression (09/30/17)
+## Simulated Linear Regression (10/02/17)
 
 Jupyter notebook that shows how to perform linear regression on a simulated data set. <br>
 Uses the packages matplotlib, pandas, and numpy.
