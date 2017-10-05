@@ -3,7 +3,7 @@
 Jupyter notebook that shows how to perform linear regression on a simulated data set. <br>
 Uses the packages matplotlib, pandas, and numpy.
 
-[Nbviewer Link](http://nbviewer.jupyter.org/github/nuclth/Python_Statistics/blob/master/Simulated_Linear_Regression.ipynb)
+[Nbviewer](http://nbviewer.jupyter.org/github/nuclth/Python_Statistics/blob/master/Simulated_Linear_Regression.ipynb)
 
 <br><br><br>
 
